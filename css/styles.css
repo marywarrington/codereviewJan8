@@ -1,0 +1,15 @@
+title {
+  color: #444;
+}
+
+.mainimg {
+  opacity: .9;
+}
+
+.navbar-default {
+  opacity: .7;
+}
+
+.nav .navbar-nav .navbar-right li {
+  color: magenta;
+}
