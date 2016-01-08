@@ -70,8 +70,31 @@ h1 {
   margin-top: 80px;
   margin-left: 30px;
   text-align: justify;
-  font-size: 16pt;
+  font-size: 14pt;
 }
+
+.appscontent {
+  margin-top: 30px;
+}
+
+.othercontent {
+  margin-top: 30px;
+}
+
+.websitescontent {
+  margin-top: 30px;
+}
+
+.websitescontent p {
+  max-width: 600px;
+}
+
+table {
+  font-size: 16px;
+  height: 80px;
+  width: 700px;
+}
+
 
 /*.examples {
   display: inline;
